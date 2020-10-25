@@ -9,7 +9,7 @@ import CardContent from "@material-ui/core/CardContent";
 import Button from "@material-ui/core/Button";
 import Typography from "@material-ui/core/Typography";
 import Box from "@material-ui/core/Box";
-const ENDPOINT = "http://localhost:4000/";
+const ENDPOINT = "/";
 
 
 const useStyles = makeStyles({
